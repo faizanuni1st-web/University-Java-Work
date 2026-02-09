@@ -1,0 +1,5 @@
+Laundry, 1500
+Breakfast, 2000
+Lunch, 3500
+Dinner, 4000
+Room Cleaning, 1000

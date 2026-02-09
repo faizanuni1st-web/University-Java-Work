@@ -1,0 +1,10 @@
+1, Burger, 300
+2, Pizza, 1800
+3, Biryani, 300
+4, Chicken Karahi, 1500
+5, Fries, 200
+6, Cold Drink, 150
+7, Ice Cream, 250
+8, Sandwich, 350
+9, Nihari, 150
+10, Shwarma, 250

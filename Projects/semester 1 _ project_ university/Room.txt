@@ -1,0 +1,10 @@
+101, Single, 27000, Available
+102, Single, 27000, Booked
+103, Double, 35000, Booked
+104, Luxury, 55000, Booked
+105, Double, 35000, Booked
+106, Luxury, 55000, Available
+107, VIP Suite, 85000, Booked
+108, VIP Suite, 85000, Available
+109, Single, 27000, Available
+110, Family Suite, 65000, Available

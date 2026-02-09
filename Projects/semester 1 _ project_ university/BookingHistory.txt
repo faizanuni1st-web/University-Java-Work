@@ -1,0 +1,2 @@
+sofia booked room 102 for 2 days.
+bilal booked room 105 for 2 days.
